@@ -48,3 +48,5 @@ missing u soo muchh
 ## inserting urls
 [github](https://github.com/shaik-rizwana/rizzurizwana/blob/main/README.md) 
      
+## image
+[nhttps://github.com/shaik-rizwana/rizzurizwana/blob/main/nobita.jpgobita]()
