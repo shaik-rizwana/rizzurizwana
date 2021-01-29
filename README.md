@@ -49,4 +49,4 @@ missing u soo muchh
 [github](https://github.com/shaik-rizwana/rizzurizwana/blob/main/README.md) 
      
 ## image
-[nobita](nhttps://github.com/shaik-rizwana/rizzurizwana/blob/main/nobita.jpgobita)
+![image](nhttps://github.com/shaik-rizwana/rizzurizwana/blob/main/nobita.jpgobita)
