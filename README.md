@@ -1,1 +1,12 @@
-# rizzurizwana hello how r u
+# git workshop
+## git head2
+### git3
+#### git6
+
+**bold data**
+
+__another bold__
+
+*italic format*
+
+_another bold_
