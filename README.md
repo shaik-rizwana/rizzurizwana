@@ -38,7 +38,7 @@ hello pandu how r u
 missing u soo muchh 
 
 ## blocked list
-lv uu panduuuu
+**lv uu panduuuu**
 
   
      
