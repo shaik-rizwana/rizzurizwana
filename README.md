@@ -23,5 +23,5 @@ _**italic and bold**_
    2. civil(b)
 
 4. mech
-      1.mech(a)
-      2.mech(b)   
+      1. mech(a)
+      2. mech(b)   
