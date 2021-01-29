@@ -46,5 +46,5 @@ missing u soo muchh
 >>> third
   
 ## inserting urls
-[github]()https://github.com/shaik-rizwana/rizzurizwana/blob/main/README.md
+[github](https://github.com/shaik-rizwana/rizzurizwana/blob/main/README.md) 
      
